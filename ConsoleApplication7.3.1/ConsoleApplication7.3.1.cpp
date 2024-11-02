@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Point
+class Rectengle
 {
 
 };
@@ -10,5 +10,5 @@ int main()
 {
     int i = 5;
     int j = 12;
-    Point p;
+    Rectengle r;
 }
